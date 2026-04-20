@@ -32,7 +32,12 @@ Para reproduzir as análises e o modelo, siga os passos abaixo:
 
 1. Pré-requisitos:
 * Certifique-se de ter o Python 3.x instalado.
-* Instale as bibliotecas necessárias via terminal no VS Code: `pip install pandas numpy matplotlib seaborn scikit-learn`.
+* Instale as bibliotecas necessárias via terminal no VS Code:
+
+  ```bash
+  pip install pandas numpy matplotlib seaborn scikit-learn
+  ```
+  
 * No VS Code, certifique-se de ter a extensão Jupyter instalada para abrir o arquivo .ipynb.
 
 2. Configuração e Obtenção dos Dados:

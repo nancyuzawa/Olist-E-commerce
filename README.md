@@ -1,4 +1,4 @@
-# Projeto de Previsão de Demanda e Faturamento - E-commerce Olist
+# Projeto de Previsão de Demanda e Faturamento | E-commerce Olist
 
 ## Integrantes do Grupo
 * Luiz Henrique Nunes Santana - CP3025608

@@ -35,7 +35,7 @@ Para reproduzir as análises e o modelo, siga os passos abaixo:
 * Instale as bibliotecas necessárias via terminal no VS Code:
 
   ```bash
-  pip install pandas numpy matplotlib seaborn scikit-learn kagglehub
+  pip install pandas numpy matplotlib seaborn scikit-learn kagglehub xgboost mlxtend
   ```
   
 * No VS Code, certifique-se de ter a extensão Jupyter instalada para abrir o arquivo .ipynb.

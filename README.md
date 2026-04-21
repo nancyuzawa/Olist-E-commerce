@@ -51,6 +51,8 @@ Abra o arquivo Olist_E_commerce.ipynb.
 
 Selecione o Interpretador: No canto superior direito, clique em Select Kernel -> Python Environments e escolha a versão Python 3.11.
 
+E por fim, execute o "Run All" para rodar todas as células.
+
 # Créditos e Atribuição de Dados
 
 Este projeto utiliza o conjunto de dados **Brazilian E-Commerce Public Dataset by Olist**, disponibilizado pela **Olist** no **Kaggle**.

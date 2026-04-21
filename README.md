@@ -31,23 +31,25 @@ Com base na análise exploratória realizada, destacam-se os seguintes pontos:
 Para reproduzir as análises e o modelo, siga os passos abaixo:
 
 1. Pré-requisitos:
-* Certifique-se de ter o Python 3.x instalado.
-* Instale as bibliotecas necessárias via terminal no VS Code:
+* Python 3.11 instalado
+* Visual Studio Code (VS Code) instalado
+* No VS Code, certifique-se de ter a extensão Jupyter e Python instalada.
 
-  ```bash
-  pip install pandas numpy matplotlib seaborn scikit-learn kagglehub xgboost mlxtend yellowbrick
-  ```
-  
-* No VS Code, certifique-se de ter a extensão Jupyter instalada para abrir o arquivo .ipynb.
+2. Abrindo o Projeto:
+Baixe ou clone o repositório:
 
-2. Configuração e Obtenção dos Dados:
-* Clone o repositório do GitHub ou baixe o arquivo do notebook.
-* Importante: O código está configurado para ler os dados diretamente via links (como os do Google Drive que aparecem no seu PDF), portanto, garanta que você tenha conexão com a internet ao executar as células de carga de dados.
+```bash
+git clone https://github.com/nancyuzawa/Olist-E-commerce.git
+```
 
-3. Execução no VS Code:
-* Abra a pasta do projeto no VS Code.
-* Abra o arquivo .ipynb e selecione o Kernel do Python correto no canto superior direito.
-* Execute as células sequencialmente.
+ou extraia o arquivo .zip.
+
+3. Executando o Projeto:
+Abra a pasta do projeto no VS Code (File -> Open Folder).
+
+Abra o arquivo Olist_E_commerce.ipynb.
+
+Selecione o Interpretador: No canto superior direito, clique em Select Kernel -> Python Environments e escolha a versão Python 3.11.
 
 # Créditos e Atribuição de Dados
 

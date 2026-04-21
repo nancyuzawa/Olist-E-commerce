@@ -1,8 +1,8 @@
 # Projeto de Previsão de Demanda e Faturamento | E-commerce Olist
 
 ## Integrantes do Grupo
-* Luiz Henrique Nunes Santana - CP3025608
-* Nancy Miyuki Yuzawa - CP3025641
+* [Luiz Henrique Nunes Santana](https://github.com/luizHenrique-Dev21) - CP3025608
+* [Nancy Miyuki Yuzawa](https://github.com/nancyuzawa) - CP3025641
   
 ## O Problema Analisado
 Este projeto foca na **previsão de volume de vendas (demanda) e faturamento** por categoria de produto, utilizando o histórico de pedidos de um e-commerce real. 

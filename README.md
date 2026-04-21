@@ -19,6 +19,8 @@ O conjunto de dados é relacional e composto por tabelas integradas através de 
 
 <img width="2486" height="1496" alt="HRhd2Y0" src="https://github.com/user-attachments/assets/ac6a3aa6-0912-4f44-a617-62fdd38664a8" />
 
+*Fonte: Kaggle — Brazilian E-commerce (Olist)*
+
 ## Resumo dos Principais Achados da EDA (Análise Exploratória)
 Com base na análise exploratória realizada, destacam-se os seguintes pontos:
 * **Concentração de Vendas:** Identificou-se uma alta concentração de pedidos em poucas categorias e regiões específicas do Brasil, o que indica a necessidade de atenção a possíveis vieses no modelo.
